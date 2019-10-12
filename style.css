@@ -1,0 +1,45 @@
+body{
+    background-image: url("hollowknight.jpg");
+    font-family: 'Cinzel'; 
+    color : whitesmoke;
+    margin : 3%
+}
+  
+button{
+    height: 100px;
+    width:100px;
+    background-color: black;
+    border-color: black;
+    padding: 10px;
+    padding-top: 5%;
+
+}
+
+.picture{
+    height: 100px;
+    width:100px;
+
+}
+
+#winCount{
+    font-size: 1.5em
+}
+
+
+#lossCount{
+    font-size: 1.5em
+}
+
+#playScore{
+    font-size: 1.5em
+
+}
+
+#randomNumberBox{
+    font-size: 1.5em;
+    padding-top: 3%;
+}
+
+#info{
+    padding-top: 5%
+}
